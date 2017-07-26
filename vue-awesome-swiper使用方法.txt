@@ -1,0 +1,12 @@
+vue-awesome-swiper 使用方法
+
+安装组件
+nam install vue-awesome-swiper --save-dev
+
+引用vie-awesome-swiper组件
+import VueAwesomeSwiper from 'vue-awesome-swiper';
+Vue.use(VueAwesomeSwiper)
+
+
+展示地址
+https://surmon-china.github.io/vue-awesome-swiper/
